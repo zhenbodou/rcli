@@ -1,0 +1,12 @@
+[default.extend-words]
+
+[files]
+extend-exclude = [
+    "CHANGELOG.md",
+    "notebooks/*",
+    ".gitignore",
+    ".pre-commit-config.yaml",
+    "Cargo.*",
+    "readme.md",
+    "deny.toml",
+]
